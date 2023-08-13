@@ -1,4 +1,4 @@
+# Design
 
-# design
-## design funzionale
-## design estetico
+## Design funzionale
+## Design estetico

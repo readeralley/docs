@@ -1,5 +1,5 @@
 export default {
-  logo: <span>ReaderAlley</span>,
+  logo: <span>Readeralley</span>,
   docsRepositoryBase: 'https://github.com/readeralley/docs',
   useNextSeoProps() {
     return { titleTemplate: '%s' }
@@ -32,5 +32,6 @@ export default {
         .
       </span>
     )
-  }
+  },
+  gitTimestamp: null
 }

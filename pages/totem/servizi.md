@@ -1,9 +1,9 @@
-# totem
+# I totem di Readeralley
 
-## punto di spedizione / ritiro libri
-## acquisto
-## attrazione pubblicitaria
-## comunità
-### eventi
-### canvas
+## Punto di spedizione / ritiro libri
+## Acquisto di libri usati
+## Attrazione pubblicitaria
+## Comunità
+### Eventi
+### Canvas
 

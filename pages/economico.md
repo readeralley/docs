@@ -1,4 +1,4 @@
-# piano economico
+# Piano fi investimento economico
 
-## target
-## analisi di mercato
+## Target
+## Analisi concorrenziale di mercato
